@@ -1,0 +1,15 @@
+/Users/ashutoshranjan/myProject/program1/bin/Debug/net7.0/program1
+/Users/ashutoshranjan/myProject/program1/bin/Debug/net7.0/program1.deps.json
+/Users/ashutoshranjan/myProject/program1/bin/Debug/net7.0/program1.runtimeconfig.json
+/Users/ashutoshranjan/myProject/program1/bin/Debug/net7.0/program1.dll
+/Users/ashutoshranjan/myProject/program1/bin/Debug/net7.0/program1.pdb
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.csproj.AssemblyReference.cache
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.AssemblyInfoInputs.cache
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.AssemblyInfo.cs
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.csproj.CoreCompileInputs.cache
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.dll
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/refint/program1.dll
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.pdb
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/program1.genruntimeconfig.cache
+/Users/ashutoshranjan/myProject/program1/obj/Debug/net7.0/ref/program1.dll

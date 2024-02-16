@@ -1,0 +1,12 @@
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/bin/Debug/net7.0/Solution.deps.json
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/bin/Debug/net7.0/Solution.dll
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/bin/Debug/net7.0/Solution.pdb
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.csproj.AssemblyReference.cache
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.AssemblyInfoInputs.cache
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.AssemblyInfo.cs
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.csproj.CoreCompileInputs.cache
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.dll
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/refint/Solution.dll
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/Solution.pdb
+/Users/ashutoshranjan/Projects/SolutionApp/Solution/obj/Debug/net7.0/ref/Solution.dll

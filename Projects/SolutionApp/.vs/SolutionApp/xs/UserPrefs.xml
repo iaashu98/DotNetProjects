@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Testing FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testing/Class1.cs">
+    <Files>
+      <File FileName="Solution/Model/CalculatorModel.cs" Line="25" Column="6" />
+      <File FileName="Testing/Class1.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolutionApp" expanded="True">
+            <Node name="Testing" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
